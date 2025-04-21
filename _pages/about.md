@@ -47,13 +47,13 @@ Throughout my career, I have led and contributed to a range of academic research
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2017.09 - 2023.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2011.09 - 2014.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2003.09 - 2007.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2017.09 - 2023.06*, Ph.D. in Cyberspace Security, University of Chinese Academy of Sciences, supervised by [Prof. Hanbing Yan](https://scholar.google.com/citations?user=B5l2ePEAAAAJ).
+- *2011.09 - 2014.06*, M.Eng. in Software Engineering, Peking University, supervised by Prof. [Weiping Wen](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1637-%E6%96%87%E4%BC%9F%E5%B9%B3.html).
+- *2003.09 - 2007.06*, B.Sc. in Computer Science and Applications, Peking University, supervised by Assoc. Prof. Congyi Liu.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 Internships111
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
