@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Rui Mei (梅瑞)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/roy-512x512.png"
   bio              : "iFLYTEK Security Laboratory"
   location         : "Hefei, China"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "ruimei (at) pku.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=6XoiptsAAAAJ"
+  email            : "ruimei@pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
