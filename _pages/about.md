@@ -26,11 +26,15 @@ Throughout my career, I have led and contributed to a range of academic research
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+# 📖 Educations
+- *2017.09 - 2023.06*, Ph.D. in Cyberspace Security, University of Chinese Academy of Sciences, supervised by [Prof. Han-Bing Yan](https://scholar.google.com/citations?user=B5l2ePEAAAAJ).
+- *2011.09 - 2014.06*, M.Eng. in Software Engineering, Peking University, supervised by [Prof. Weiping Wen](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1637-%E6%96%87%E4%BC%9F%E5%B9%B3.html).
+- *2003.09 - 2007.06*, B.Sc. in Computer Science and Applications, Peking University, supervised by Assoc. Prof. Congyi Liu.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
@@ -42,18 +46,11 @@ Throughout my career, I have led and contributed to a range of academic research
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 🎖 Professional Experience
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2017.09 - 2023.06*, Ph.D. in Cyberspace Security, University of Chinese Academy of Sciences, supervised by [Prof. Hanbing Yan](https://scholar.google.com/citations?user=B5l2ePEAAAAJ).
-- *2011.09 - 2014.06*, M.Eng. in Software Engineering, Peking University, supervised by Prof. [Weiping Wen](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1637-%E6%96%87%E4%BC%9F%E5%B9%B3.html).
-- *2003.09 - 2007.06*, B.Sc. in Computer Science and Applications, Peking University, supervised by Assoc. Prof. Congyi Liu.
-
-# 💬 Invited Talks
+# 💻 Professional Services
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships111
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
