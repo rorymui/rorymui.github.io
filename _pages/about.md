@@ -49,6 +49,11 @@ Throughout my career, I have led and contributed to a range of academic research
 
 1. ***Rui Mei***, Han-Bing Yan, Zhi-Hui Han, and Jian-Chun Jiang, *CTScopy: Hunting Cyber Threats within Enterprise via Provenance Graph-Based Analysis*, IEEE QRS 2021, pp. 28–39.
 2. ***Rui Mei***, Han-Bing Yan, and Zhi-Hui Han, *Ransomlens: Understanding Ransomware via Causality Analysis on System Provenance Graph*, in: Science of Cyber Security, SciSec 2021, Springer, pp. 252–267.
+3. ***Rui Mei***, Han-Bing Yan, Yuan Shen, and Zhi-Hui Han, *Application Research of Slicing Technology of Binary Executables in Malware Detection*, Journal of Cyber Security, 6 (3), pp.125-140. (In Chinese)
+
+### **2019**
+
+1. Qinqin Wang, Hao Zhou, Han-Bing Yan, ***Rui Mei***, and Zhi-Hui Han, *Cyber Security Posture Analysis based on Spread Logs of Malware*, Journal of Cyber Security, 4 (5), pp.14-24. (In Chinese)
 
 ### **2018**
 
