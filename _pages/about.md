@@ -59,7 +59,7 @@ Throughout my career, I have led and contributed to a range of academic research
 - *2017.09 - 2023.06*, Research Intern, Institute of Information Engineering, CAS, Beijing, China
 - *2017.07 - 2022.08*, Research Fellow, CNCERT/CC, Beijing, China
 - *2014.12 - 2017.07*, Senior Engineer, iFLYTEK Co., Ltd., Hefei, China
-- *2012.09 - 2014.07*, Research Assistant, Peking University, Beijing, China [[Research Group](https://www.pkuexploit.com/)]
+- *2012.09 - 2014.07*, Research Assistant, Peking University, Beijing, China [[Research Group](http://www.pkuexploit.com/)]
 - *2007.10 – 2011.10*, Engineer, ANH Branch, National Center for Statistics and Computing, Hefei, China
 
 # 🧑‍💼 Professional Services
