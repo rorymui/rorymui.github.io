@@ -55,11 +55,11 @@ Throughout my career, I have led and contributed to a range of academic research
 1. Zhuo-Hang Lv, Han-Bing Yan, and ***Rui Mei***, *Automatic and Accurate Detection of Webshell Based on Convolutional Neural Network*, in: Cyber Security: 15th International Annual Conference, CNCERT 2018, Springer, pp. 73–85.
 
 # 🧑‍🏫 Professional Experience
-- *2023.07 - Present*, Principal Research Fellow, iFLYTEK Securety Laboratory, Hefei, China
+- *2023.07 - Present*, Principal Research Fellow, iFLYTEK Security Laboratory, Hefei, China
 - *2017.09 - 2023.06*, Research Intern, Institute of Information Engineering, CAS, Beijing, China
 - *2017.07 - 2022.08*, Research Fellow, CNCERT/CC, Beijing, China
 - *2014.12 - 2017.07*, Senior Engineer, iFLYTEK Co., Ltd., Hefei, China
-- *2012.09 - 2014.07*, Research Assistant, Peking University, Beijing, China
+- *2012.09 - 2014.07*, Research Assistant, Peking University, Beijing, China [[Research Group](https://www.pkuexploit.com/)]
 - *2007.10 – 2011.10*, Engineer, ANH Branch, National Center for Statistics and Computing, Hefei, China
 
 # 🧑‍💼 Professional Services
