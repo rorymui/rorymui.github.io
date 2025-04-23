@@ -39,7 +39,7 @@ Throughout my career, I have led and contributed to a range of academic research
 
 ### **2022**
 
-1. Qinqin Wang, Hanbing Yan, Chang Zhao, ***Rui Mei***, Zhihui Han, and Yu Zhou, Yanzhong Wang, Kai Chen, *Measurement of Malware Family Classification on a Large-Scale Real-World Dataset*, IEEE TrustCom 2022, pp. 1390–1397.
+1. Qinqin Wang, Hanbing Yan, Chang Zhao, ***Rui Mei***, Zhihui Han, and Yu Zhou, *Measurement of Malware Family Classification on a Large-Scale Real-World Dataset*, IEEE TrustCom 2022, pp. 1390–1397.
 2. Qinqin Wang, Hanbing Yan, Chang Zhao, ***Rui Mei***, Zhihui Han, and Yu Zhou, *APT Attribution for Malware Based on Time Series Shapelets*, IEEE TrustCom 2022, pp. 769–777.
 3. ***Rui Mei***, Han-Bing Yan, Yongqiang He, Qinqin Wang, Shengqiang Zhu, and Weiping Wen, *Considerations on Evaluation of Practical Cloud Data Protection*, in: Cyber Security: 19th China Annual Conference, CNCERT 2022, Springer, pp. 51–69.
 4. ***Rui Mei***, Hanbing Yan, Qinqin Wang, Zhihui Han, and Zhuohang Lyu, *TDLens: Toward an Empirical Evaluation of Provenance Graph-Based Approach to Cyber Threat Detection*, China Communications, 19(10): 102–115.
