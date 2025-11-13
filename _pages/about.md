@@ -23,6 +23,7 @@ Throughout my career, I have led and contributed to a range of academic research
 
 
 # 🔥 News
+- *2025-10-08*, Our research paper focusing on ***a jailbreaking framework to Aligned Large Language Models*** has been accepted by the TrustCom 2025.
 - *2025-03-25*, Invited Talk: *Artificial Intelligence Applications and Security Challenges of Large Language Models*.
 - *2024-11-08*, Our research paper focusing on toxicity labels aggregation for AIGC  has been accepted by the CSAI 2024.
 
