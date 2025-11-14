@@ -23,9 +23,9 @@ Throughout my career, I have led and contributed to a range of academic research
 
 
 # 🔥 News
-- *2025-10-08*, Our research paper focusing on ***a jailbreaking framework to Aligned Large Language Models*** has been accepted by the TrustCom 2025.
-- *2025-03-25*, Invited Talk: *Artificial Intelligence Applications and Security Challenges of Large Language Models*.
-- *2024-11-08*, Our research paper focusing on toxicity labels aggregation for AIGC  has been accepted by the CSAI 2024.
+- **2025-10-08** — Our research paper on an evolutionary jailbreaking framework for aligned large language models has been accepted to TrustCom 2025.
+- **2025-09-16** — Invited Talk at the 22th CNCERT Annual Conference (China Cybersecurity Week): Exploring Emergency Response Paradigms for Generative AI Systems.
+- **2024-11-08** — Our research paper on toxicity label aggregation for AIGC has been accepted to CSAI 2024.
 
 # 📖 Educations
 - *2017.09 - 2023.06*, Ph.D. in Cyberspace Security, University of Chinese Academy of Sciences, China, supervised by [Prof. Han-Bing Yan](https://scholar.google.com/citations?user=B5l2ePEAAAAJ).
